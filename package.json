@@ -25,7 +25,7 @@
     "@antfu/eslint-config": "^2.6.2",
     "@commitlint/cli": "^18.4.4",
     "@commitlint/config-conventional": "^18.4.4",
-    "@types/node": "^20.11.3",
+    "@types/node": "^20.11.5",
     "@vitest/coverage-v8": "^1.2.0",
     "camelcase": "^8.0.0",
     "changelogen": "^0.5.5",
